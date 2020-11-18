@@ -8,7 +8,7 @@
 
 1、IAP TCP Server
 
-(1) windows platform: ts.exe -i:<your ip> -p:<your port>
+(1) windows platform: ts.exe -i: ip -p: port
   
 (2) 需要在ts.exe同级目录下存在UPDATE.BIN文件方可完成升级
 
